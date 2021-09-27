@@ -2,6 +2,11 @@
 [![Apipokemon.jpg](https://i.postimg.cc/rFDHS7DV/Apipokemon.jpg)](https://postimg.cc/JGWK863v)
 
 
-You will have access to a CSV file (link below) that contains a list of Pokémon. This file will act
-as a database, so we ask you to expose an API from this list to perform CRUD (Create, Read,
-Update, Delete) actions. We would also like to get a paginated list of all Pokémon in the file.
+This project is carried out with .NET Core and a SQL Express database, with extraction of information from the database through ORM (entity framework core).
+This API from this list to perform CRUD (Create, Read,
+Update, Delete) actions. You also get a paged list of all the Pokémon, where you enter the current page number and how many records you want to return.
+
+[![Basede-Datos.jpg](https://i.postimg.cc/fWfHYDWQ/Basede-Datos.jpg)](https://postimg.cc/0rrdsgJV)
+
+In this image you can see the table to which it refers.
+
